@@ -1,6 +1,3 @@
-/**
- * Created by soziel on 2/12/14.
- */
 
 var to = 3000;
 
